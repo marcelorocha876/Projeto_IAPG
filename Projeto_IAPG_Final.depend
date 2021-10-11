@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1515778572 source:c:\users\marcelo\desktop\projeto_iapg_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515945351 source:c:\users\marcelo\desktop\projeto_iapg_final\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
